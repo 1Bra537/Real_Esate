@@ -6,6 +6,7 @@ export default function NavigationBar() {
         <li>Home</li>
         <li>Properties</li>
         <li>Contact</li>
+        <li>Extra update to verify vercel and Github</li>
       </ul>
     </nav>
   )
